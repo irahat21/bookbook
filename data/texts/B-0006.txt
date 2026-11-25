@@ -1,0 +1,88 @@
+The Clockmaker's Alibi
+An original text written for the BookOrbit AI prototype.
+
+CHAPTER 1: The Missing Astrolabe
+
+The brass astrolabe of Harrowgate Museum disappeared on a Thursday evening in November, sometime between nine and half past nine. By ten o'clock, Inspector Hattie Vance was standing in the empty glass case, looking at a circle of clean velvet where the instrument had rested for ninety years.
+
+The astrolabe was the most valuable object in the museum. It had been made in the fifteenth century to measure the height of the stars, and its brass plates were engraved with the names of constellations in three languages. Collectors had offered the museum a fortune for it many times. The museum had always refused.
+
+"Who had keys?" Vance asked.
+
+The curator, Mrs. Delphine Moss, counted on thin fingers. "Myself. My assistant, Felix Rowe. And the clockmaker, Anselm Brandt. He services the gallery clocks every month."
+
+"Every month," repeated Vance. "And when was he last here?"
+
+"This evening. He left at five to nine. I saw him go."
+
+The museum guard confirmed it. At eight fifty-five, Anselm Brandt had walked out of the side door carrying his toolbag. The guard had noticed because Brandt always said goodnight, and tonight he had seemed in a hurry. At nine fifteen, according to the alarm panel, the case had been opened with a key. No one had forced the lock, and no window or door had been broken.
+
+Vance found Brandt at his workshop on Lantern Lane, surrounded by ticking clocks of every size. There were cuckoo clocks and ship's chronometers, a clock shaped like a castle and another no bigger than a coin. Brandt himself was a small, careful man with magnifying spectacles pushed up onto his forehead.
+
+"I did not take it," he said, before she had asked anything. "At nine fifteen I was at the town hall, repairing the tower clock. The council asked me to fix it before the Saturday market."
+
+"Can anyone confirm that?"
+
+"The clock can," said Brandt. "It stopped at ten past nine when I removed the pendulum. It is still stopped. Go and look."
+
+"A clock is not a witness, Mr. Brandt."
+
+"A clock is a better witness than most people," he said. "It does not forget, and it does not lie unless someone makes it."
+
+Vance did go and look. High above the square, the hands of the town hall clock stood frozen at exactly ten past nine. In the dusty clock room she found Brandt's tools laid out in a neat row, and the pendulum resting on a cloth. Everything was exactly as he had described.
+
+It was a very good alibi. That, she thought, as she walked back down the narrow stairs, was exactly what worried her.
+
+CHAPTER 2: Too Many Clocks
+
+The next morning Vance returned to the museum and walked slowly through every gallery. There were eleven clocks on display: grandfather clocks, carriage clocks, a French mantel clock with gilded cherubs, and a tall Dutch clock that showed the phases of the moon. Brandt had serviced them all the evening before.
+
+She stopped in front of the clock nearest the astrolabe case. It said nine twenty-two. Her wristwatch said nine thirty-four.
+
+"Twelve minutes slow," she murmured.
+
+She checked the next clock. Twelve minutes slow. And the next. Every clock in the museum was exactly twelve minutes behind. A clockmaker who had just serviced them would never leave them so wrong. Either Brandt had made a strange mistake, or someone had changed the clocks after he left.
+
+"Mrs. Moss," she called, "the guard told me he saw Mr. Brandt leave at five to nine. How did he know the time?"
+
+"From the gallery clock beside the door, I expect. He never wears a watch. None of the guards do. We have so many clocks."
+
+So the guard had seen Brandt leave at what the clock called eight fifty-five. The real time had been seven minutes past nine. That left Brandt only three minutes to reach the town hall, three streets away, before the tower clock stopped at nine ten. Vance walked the route herself. It took her six minutes. Brandt was older and carrying a heavy toolbag.
+
+Something did not fit. If the museum clocks were twelve minutes slow, Brandt could not have stopped the tower clock at ten past nine. Unless the tower clock had been stopped by someone else.
+
+And the alarm said the case was opened at nine fifteen. The alarm panel, Vance noticed, had its own clock. She asked the security company to check it against their central server. It was correct to the second.
+
+So someone had changed eleven museum clocks, but not the alarm. Someone who wanted the guard to remember the wrong time. Someone who knew that the museum ran on its clocks, and that a careful man like Brandt would be blamed if his own alibi looked impossible.
+
+"Who knew Mr. Brandt was going to the town hall last night?" she asked.
+
+Mrs. Moss frowned. "Only Felix. He took the council's message on Tuesday and passed it on."
+
+"And who else can open the gallery clocks?"
+
+"Anyone with a key to the cases," said Mrs. Moss slowly. "Myself, Mr. Brandt and Felix."
+
+CHAPTER 3: The Twelve Minutes
+
+Felix Rowe was young, polite and very calm. He had worked at the museum for two years and had catalogued every object in it, including the astrolabe. He kept his desk perfectly tidy and wore a grey scarf even indoors.
+
+"I was at home all evening," he said. "Reading."
+
+"Which book?" asked Vance.
+
+He named one. She asked him what happened in the last chapter. He told her, smoothly, as if he had prepared the answer. She thanked him and left, and then she went to the town hall and climbed back into the clock room.
+
+This time she looked more closely at the pendulum on its cloth. Brass dust, fresh and bright, lay on the floor beside it, as if the pendulum had been pulled out roughly. Brandt was a careful man; he never left dust. And under the workbench, half hidden in the shadows, was a museum key tag with the number eleven on it. Key eleven belonged to the assistant curator.
+
+When Vance laid out the evidence, the story was simple. Felix had moved the museum clocks back by twelve minutes during the afternoon, so that the guard would remember Brandt leaving later than he did. Then he had hurried to the town hall ahead of Brandt and stopped the tower clock himself, pulling out the pendulum at ten past nine. He expected Brandt's alibi to look impossible: no man could leave the museum at "eight fifty-five" and stop a clock three streets away by ten past nine. While everyone argued about the minutes, Felix had returned to the museum, opened the case at nine fifteen with his own key, and taken the astrolabe. It would already be sold to a private collector before anyone thought to check the alarm.
+
+But Felix had made one mistake. In his hurry in the dark clock room, his key tag had slipped from his pocket.
+
+Brandt, it turned out, had arrived at the town hall at twenty past nine, found the clock already stopped, and assumed the caretaker had done it to help him. He had simply started work.
+
+The astrolabe was found two days later in a locked case at the railway station, labelled as a surveyor's instrument and addressed to a buyer in another country.
+
+Anselm Brandt reset every clock in the museum himself. When he had finished, he gave Inspector Vance a small pocket watch from his workshop.
+
+"So that you will never have to trust someone else's time," he said.

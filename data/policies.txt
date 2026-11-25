@@ -1,0 +1,25 @@
+BookOrbit AI is an online bookstore with digital books. There is no shopping cart: each book is bought on its own with the Buy Now button and paid from the customer's wallet balance. Books are digital, so there is no stock limit, and a customer can buy each book only once.
+
+Visitors can browse the catalog, search by title, author, keyword or publication year, search by a photo of a cover, read reviews and use the AI chatbot for store questions. To buy books, write reviews or use the Reading Companion, a visitor registers as a customer.
+
+Customers and Super-Users sign in with a face sample, or with a voice sample as the alternative. A face must match with a similarity of at least 0.60 and a voice with at least 0.75. After three failed sign-in attempts in a row the username is locked for five minutes.
+
+The wallet holds the customer's money. Customers add funds with a deposit of up to $10,000 at a time. Every deposit, purchase and fine appears in the ledger on the My Balance page. The prototype uses fake money only; there is no payment gateway.
+
+VIP status: a Registered Customer becomes a VIP Customer right after a purchase that brings their purchases to more than 3, or their spending to more than $200, counted since joining or since their last demotion. VIP Customers pay 90 percent of the list price, a 10 percent discount rounded to the cent. The discount starts with the first purchase after the promotion.
+
+Insufficient funds: if a customer tries to buy a book without enough money in the wallet, the purchase is rejected and a fine of $1.00 is charged. If the fine takes the balance below $0.00, the account is suspended.
+
+Suspended accounts can only use the wallet, to deposit money and view the ledger. A Super-User can reopen a suspended account once its balance is $0.00 or more. Reopening resets the customer's warnings to 0.
+
+Reviews: customers rate books from 1 to 5 stars and may add a comment. Each customer writes one review per book. Comments are checked for taboo words. A comment with 1 to 3 taboo words is published with those words replaced by asterisks. A comment with more than 3 taboo words is blocked and the author receives a warning.
+
+Warnings: a Registered Customer whose warnings go above 2, that is the third warning, is suspended. A VIP Customer who receives a warning loses VIP status and becomes a Registered Customer again, and their promotion counters restart.
+
+Ratings: each book shows a weighted average rating. Ratings from verified buyers, customers who bought the book, count twice as much as other ratings. Books with more than 3 ratings and an average below 2 go on the No-Order List; books with more than 3 ratings and an average above 4 go on the To-Order List.
+
+Popular books are ranked by browse count plus three times the purchase count; the top 3 are shown on the home page. Signed-in customers instead see 3 recommended books based on the categories, authors and keywords of the books they bought and viewed.
+
+The AI chatbot answers questions about the store for everyone. Registered and VIP Customers can also ask about their own account and ask general questions. Super-Users can also ask about administrative data such as suspended accounts, warnings, sales and the order lists.
+
+The Reading Companion is available to Registered and VIP Customers for books that have a full text. It can summarize a chapter, explain a selected passage, define a word, quiz the reader and answer questions about the book. Owned books can be read in full; for other books only the first chapter is available.

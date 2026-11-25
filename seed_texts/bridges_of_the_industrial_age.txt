@@ -1,0 +1,44 @@
+Bridges of the Industrial Age
+An original text written for the BookOrbit AI prototype.
+
+CHAPTER 1: Iron Over the Severn
+
+For most of human history, bridges were built of wood or stone. Wooden bridges were quick to build but rotted, burned and were swept away by floods. Stone arches could last for centuries, as the Roman bridges of Europe still show, but they were slow and expensive to build, and their spans were limited by the enormous weight of the stone itself. A wide river needed many arches, and every pier standing in the water was an obstacle for boats and a weak point when the river flooded.
+
+In the eighteenth century, in the valleys of Shropshire in England, a new material changed what a bridge could be.
+
+The material was cast iron. Iron had been made for thousands of years, but only in small quantities, because smelting iron ore needed charcoal, and charcoal needed forests. At Coalbrookdale, iron makers had learned to smelt iron ore using coke made from coal instead. Britain had plenty of coal. Iron suddenly became cheaper and available in much larger quantities, and the Severn valley filled with furnaces, workshops and smoke.
+
+The ironmaster Abraham Darby the Third saw an opportunity. The River Severn was busy with boats carrying coal and iron, and the towns on either bank had no bridge between them, only ferries. A bridge made of stone would need piers in the river that would block the boats. A bridge made entirely of iron could cross in a single, high arch.
+
+The Iron Bridge was built in 1779 and opened to traffic at the start of 1781. Its single arch spans about thirty metres. Its parts were cast nearby and lifted into place in a few months. Because no one had built a large iron bridge before, its builders used the methods they knew best: the methods of carpenters. The iron parts were joined with dovetails and mortise-and-tenon joints, exactly as if they were timber. Today engineers smile at this, but the bridge is still standing more than two centuries later.
+
+The Iron Bridge was more than a crossing. It was an advertisement. Visitors came from all over Europe to see it, and artists painted it as a symbol of a new age. It proved that iron could be trusted to carry people and goods over open water.
+
+The bridge also showed a lesson that would repeat throughout the industrial age: new materials are first used in old ways. It took several decades before engineers fully understood how iron behaved under tension and compression, and began to design shapes that suited the material instead of copying wood and stone.
+
+CHAPTER 2: Hanging Roads
+
+Cast iron is strong when it is squeezed, but it is brittle when it is pulled or bent, and it can crack without warning. Wrought iron, which is worked by hammering and rolling, contains less carbon and is much better at resisting tension. This difference made a new kind of bridge possible: the suspension bridge, in which the road hangs from chains or cables strung between tall towers. The towers are squeezed; the chains are pulled; each material does the work it is best at.
+
+The Scottish engineer Thomas Telford was one of the great builders of the period. The son of a shepherd, he had trained as a stonemason before becoming an engineer. He built roads, canals, harbours and churches, and he became the first president of the Institution of Civil Engineers. He was also given one of the hardest problems in Britain: crossing the Menai Strait, the stretch of sea between mainland Wales and the island of Anglesey, on the road to the ferry port for Ireland.
+
+The strait had strong tides and dangerous currents, and the navy insisted that tall sailing ships must be able to pass underneath. Piers in the water and low arches were impossible.
+
+Telford's answer was the Menai Suspension Bridge, opened in 1826. Its main span was around one hundred and seventy-six metres, far longer than any iron arch of the time. The road hung from chains made of wrought-iron bars, tested one by one before use. The chains were lifted into place by teams of workers pulling on ropes while crowds watched from the shore and a band played.
+
+Suspension bridges had a weakness that their first builders did not fully understand: wind. A long, light deck could twist and swing in a storm. The Menai bridge was damaged by wind more than once and had to be strengthened. Engineers slowly learned that a suspension bridge needs a stiff deck as well as strong cables.
+
+The disaster that taught the hardest lesson was not a suspension bridge at all. In December 1879, the first Tay Bridge in Scotland, then one of the longest bridges in the world, collapsed in a violent storm while a train was crossing it, and everyone on board died. The investigation found that wind forces had not been properly considered, and that the bridge had been poorly built and maintained. After the Tay Bridge, wind loading became a central part of bridge design, and engineers became far more cautious about new and unusual structures.
+
+CHAPTER 3: The Great Bridge
+
+By the second half of the nineteenth century, steel was replacing iron. Steel combined the strength of cast iron under compression with the toughness of wrought iron under tension. Steel had always been expensive to make, but new processes, such as the Bessemer converter, made it affordable in large quantities. Steel rails, steel ships and steel bridges followed quickly.
+
+The most famous bridge of the age used steel wire on a scale never seen before. The Brooklyn Bridge, crossing the East River between Manhattan and Brooklyn in New York, was designed by the engineer John Augustus Roebling, who had already built several successful suspension bridges. Before construction properly began, Roebling's foot was crushed in an accident at the ferry landing while he was surveying the site, and he died of tetanus in 1869.
+
+His son, Washington Roebling, took over. To build the foundations of the great stone towers, workers dug beneath the river inside enormous wooden boxes called caissons. The caissons were open at the bottom and filled with compressed air to keep the water out. Workers spent long hours in the hot, dim chambers, digging away mud and rock while the caissons sank slowly toward the bedrock. Many of them suffered from a mysterious illness when they returned to the surface: pain in the joints, paralysis and sometimes death. We now call it decompression sickness. Washington Roebling himself became so ill that he could no longer visit the site. He watched the construction through a telescope from a window in his house.
+
+His wife, Emily Warren Roebling, became the link between the chief engineer and the construction. She studied mathematics, the strength of materials and cable construction. She carried his instructions to the engineers on site, answered their questions, and dealt with officials and politicians who wanted to replace her husband. Many people came to believe that she was doing much of the engineering herself. When the bridge opened in May 1883, she was the first person to cross it by carriage, carrying a rooster as a symbol of victory.
+
+The Brooklyn Bridge combined the lessons of a century: stone towers, steel cables, and a deck stiffened against wind. Its main span is about four hundred and eighty-six metres, the longest in the world when it opened. It showed that the industrial age had turned bridges from local crossings into great public works, built by thousands of people and remembered as symbols of the cities they joined.

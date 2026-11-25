@@ -1,0 +1,20 @@
+# OPTIONAL packages for the "real" AI modes (CLAUDE.md, SRS 1.1).
+# NOT installed and NOT tested in this prototype - the code for these modes is written
+# (bookorbit/ai/covers.py OpenClipEmbedder, bookorbit/ai/biometrics.py RealBiometricEngine)
+# but has never run. Versions are therefore not pinned. Several GB of downloads.
+# Install into the project venv only, if you want to try them:
+#   .venv/bin/python -m pip install -r requirements-real.txt
+#
+# LLM_MODE=real needs NO Python package: it talks to the Ollama app over HTTP
+# (see docs/PROGRESS.md "Switching to real Ollama").
+
+# COVER_MODE=real - OpenCLIP ViT-B/32 (SRS 4.9); downloads its weights on first use
+open_clip_torch
+torch
+
+# BIOMETRIC_MODE=real - YOLOv8-face + FaceNet + Resemblyzer (SRS 4.7)
+# YOLOv8 face weights are NOT part of ultralytics: put a yolov8n-face.pt file at
+# models/yolov8n-face.pt or set YOLO_FACE_WEIGHTS in .env.
+ultralytics
+facenet-pytorch
+resemblyzer

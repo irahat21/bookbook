@@ -1,0 +1,14 @@
+{"purchase_id": "P-0001", "user_id": "U-0002", "book_id": "B-0001", "txn_id": "X-0002", "list_price": 9.99, "discount": 0.0, "price_paid": 9.99, "timestamp": "2026-10-02 09:37:00"}
+{"purchase_id": "P-0002", "user_id": "U-0002", "book_id": "B-0005", "txn_id": "X-0003", "list_price": 19.99, "discount": 0.0, "price_paid": 19.99, "timestamp": "2026-10-02 10:14:00"}
+{"purchase_id": "P-0003", "user_id": "U-0002", "book_id": "B-0009", "txn_id": "X-0004", "list_price": 12.99, "discount": 0.0, "price_paid": 12.99, "timestamp": "2026-10-02 10:51:00"}
+{"purchase_id": "P-0004", "user_id": "U-0003", "book_id": "B-0001", "txn_id": "X-0006", "list_price": 9.99, "discount": 0.0, "price_paid": 9.99, "timestamp": "2026-10-02 12:28:00"}
+{"purchase_id": "P-0005", "user_id": "U-0003", "book_id": "B-0010", "txn_id": "X-0007", "list_price": 16.99, "discount": 0.0, "price_paid": 16.99, "timestamp": "2026-10-02 13:05:00"}
+{"purchase_id": "P-0006", "user_id": "U-0003", "book_id": "B-0019", "txn_id": "X-0008", "list_price": 14.99, "discount": 0.0, "price_paid": 14.99, "timestamp": "2026-10-02 13:42:00"}
+{"purchase_id": "P-0007", "user_id": "U-0003", "book_id": "B-0028", "txn_id": "X-0009", "list_price": 34.99, "discount": 0.0, "price_paid": 34.99, "timestamp": "2026-10-02 14:19:00"}
+{"purchase_id": "P-0008", "user_id": "U-0006", "book_id": "B-0001", "txn_id": "X-0012", "list_price": 9.99, "discount": 0.0, "price_paid": 9.99, "timestamp": "2026-10-02 16:56:00"}
+{"purchase_id": "P-0009", "user_id": "U-0007", "book_id": "B-0001", "txn_id": "X-0014", "list_price": 9.99, "discount": 0.0, "price_paid": 9.99, "timestamp": "2026-10-02 18:33:00"}
+{"purchase_id": "P-0010", "user_id": "U-0008", "book_id": "B-0001", "txn_id": "X-0016", "list_price": 9.99, "discount": 0.0, "price_paid": 9.99, "timestamp": "2026-10-02 20:10:00"}
+{"purchase_id": "P-0011", "user_id": "U-0009", "book_id": "B-0004", "txn_id": "X-0018", "list_price": 9.99, "discount": 0.0, "price_paid": 9.99, "timestamp": "2026-10-02 21:47:00"}
+{"purchase_id": "P-0012", "user_id": "U-0010", "book_id": "B-0004", "txn_id": "X-0020", "list_price": 9.99, "discount": 0.0, "price_paid": 9.99, "timestamp": "2026-10-02 23:24:00"}
+{"purchase_id": "P-0013", "user_id": "U-0002", "book_id": "B-0019", "txn_id": "X-0022", "list_price": 14.99, "discount": 0.0, "price_paid": 14.99, "timestamp": "2026-11-24 20:15:22"}
+{"purchase_id": "P-0014", "user_id": "U-0002", "book_id": "B-0046", "txn_id": "X-0024", "list_price": 4.99, "discount": 0.0, "price_paid": 4.99, "timestamp": "2026-11-24 22:42:06"}

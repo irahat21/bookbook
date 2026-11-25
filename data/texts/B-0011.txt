@@ -1,0 +1,106 @@
+Orbit of the Glass Moons
+An original text written for the BookOrbit AI prototype.
+
+CHAPTER 1: Freight for Verdane
+
+The freighter Halcyon dropped out of the hyperlane eleven hours late, and Captain Ines Okoro was not in a good mood. Her cargo was four hundred crates of water filters for the mining colony on Verdane, and every hour she lost was an hour the colony went thirsty.
+
+The Halcyon was not a beautiful ship. She was long and square, painted the colour of old mustard, with three cargo bays and a cockpit just big enough for two people and a coffee machine. But she was reliable, and Ines had flown her for twelve years without losing a single delivery.
+
+"Distance to the planet?" she asked.
+
+"Two hundred thousand kilometres," said the ship's computer, which the crew called Pim. "Captain, you should look out of the forward window."
+
+Ines looked. Verdane was a green gas giant, banded with slow storms that were each larger than Earth. Around it circled three small moons, and the moons were glass. Not ice, not rock: glass, clear as a window, catching the light of the distant sun and bending it into long rainbows across space.
+
+"Nobody mentioned that in the delivery notes," said Dev Malhotra, the engineer, floating into the cockpit with a cup of coffee in a sealed bulb.
+
+"The colony survey says the moons are crystalline silica," said Pim. "Formed by a very old impact that melted the surface of an ancient moon and threw the pieces into orbit. They are harmless."
+
+As Pim spoke, every screen on the bridge flickered. A sound came through the speakers: a long, low note, like a finger running around the rim of a wine glass. It was so deep that Ines felt it in her teeth.
+
+"That," she said, "does not sound harmless."
+
+"It is coming from the moons," said Pim. "All three of them. They are singing at the same frequency."
+
+Dev's coffee bulb drifted out of his hand and bumped gently against the ceiling. "Glass moons that sing. Fantastic. Can we deliver the filters and leave?"
+
+Ines checked the navigation display. The safe approach to the colony passed directly between the first and second moons. Any other route would take two extra days around the planet's radiation belts, and the colony did not have two extra days. As the Halcyon moved closer, the note grew louder, and small cracks of light began to dance across the hull sensors.
+
+"Pim," she said, "what happens to our systems if that sound keeps getting stronger?"
+
+Pim paused for almost a full second, which for a computer was a very long time.
+
+"I would prefer not to find out," it said.
+
+Ines cut the engines. The Halcyon drifted to a stop, and the rainbows of the glass moons slid silently across the cockpit walls.
+
+CHAPTER 2: Resonance
+
+Ines held the Halcyon fifty thousand kilometres from the moons and called the colony.
+
+The face that appeared on the screen belonged to Dr. Sela Varn, the colony's chief scientist. She looked as if she had not slept for days. Behind her, Ines could see a laboratory full of flickering screens and people working by torchlight.
+
+"The singing started six days ago," Dr. Varn said. "Our communications are failing. Our drones crash when they fly near the moons. Two supply shuttles have already turned back. We think the moons are vibrating in resonance, like a glass when an opera singer hits exactly the right note. Something is feeding them energy."
+
+"Something like what?" asked Ines.
+
+Dr. Varn hesitated. "Like our new mining drill. We started deep drilling seven days ago. The drill pulses at a steady rhythm, once every four seconds. We think the planet's magnetic field carries that rhythm up to the moons, and each pulse makes them ring a little louder."
+
+Dev whistled. "So you're ringing three giant wine glasses with a hammer."
+
+"Can you stop the drill?" asked Ines.
+
+"The drill is our only source of power for the water plant," said Dr. Varn. "Without your filters, we can't run the plant on backup. Without the drill, we can't run the plant at all. Either way, in four days we run out of clean water."
+
+Nobody spoke. On the screen behind Dr. Varn, someone was handing out small bottles of water, one per person. A child near the back of the room held hers up to the light, as if checking that it was really there.
+
+"Pim," said Ines quietly, "how many people live in the colony?"
+
+"Three hundred and twelve," said Pim. "Including forty children."
+
+Ines thought about the problem the way her old flight instructor had taught her: what is the force, what is the rhythm, what can you change? You could not stop the drill. You could not move the moons. But a rhythm was only a pattern in time, and patterns could be answered.
+
+"Dev," she said, "what if we don't stop the rhythm? What if we change it?"
+
+Dev frowned, then grinned slowly. "A counter-pulse. We could broadcast a signal from the Halcyon at the opposite phase. Each time the drill pushes the moons, we pull. The waves would cancel each other out. Like noise-cancelling headphones."
+
+"For moons," said Pim.
+
+"For moons," agreed Ines. "Dr. Varn, can you give us the exact timing of your drill?"
+
+"To the millisecond," said the scientist, and for the first time she smiled.
+
+CHAPTER 3: The Quiet Window
+
+It took Dev nine hours to turn the ship's main transmitter into a resonance emitter. He worked in the cramped equipment bay with a torch in his mouth, rewiring circuits that had never been designed for anything like this. It took Pim another two hours to calculate the exact frequency, phase and timing needed. The colony would pulse its drill once every four seconds; the Halcyon would answer with a matching pulse exactly half a cycle later.
+
+"If we are wrong," said Pim, "the signal will add instead of cancel, and the moons will sing much louder."
+
+"How much louder?" asked Ines.
+
+"Loud enough to crack."
+
+Nobody said anything for a while. Ines imagined three moons of glass shattering into a storm of sharp fragments, spreading across the only safe route to the colony for a thousand years.
+
+"Run the numbers again," she said. Pim ran them three more times. They were the same each time.
+
+At the agreed time, the drill started. The note rose. Ines gave the order, and the Halcyon began to pulse. For ten seconds nothing changed, and Ines held her breath. Then the note wavered, dropped, and faded to a whisper. Across the hull, the dancing lights grew still.
+
+"Resonance reduced by ninety-four percent," said Pim. "We have a quiet window."
+
+"How long?"
+
+"As long as we keep pulsing. But we cannot keep pulsing while we land."
+
+Ines flew the Halcyon between the first and second moons at full speed, while Dev held the emitter steady. Through the forward window the glass surfaces slid past, so close that she could see her own ship reflected in them, small and bright, like a toy inside a crystal ball.
+
+They landed on Verdane with forty minutes to spare. The colony crew unloaded the four hundred crates of filters, and by evening the water plant was running and people were filling cups straight from the taps.
+
+Before leaving, Dev installed a permanent counter-pulse emitter beside the drill, so that the moons would stay quiet for as long as the colony needed power. Dr. Varn thanked them with the only luxury the colony had: three cups of real coffee.
+
+As the Halcyon climbed out of orbit, the moons were silent, turning slowly in the sunlight and throwing their rainbows across the green clouds below.
+
+"I almost miss the singing," said Dev.
+
+"Pim," said Ines, "make a note in the logbook. Glass moons of Verdane: beautiful. Do not ring."

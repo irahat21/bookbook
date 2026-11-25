@@ -1,0 +1,52 @@
+The Woman Who Measured Storms
+An original text written for the BookOrbit AI prototype. Clara Whitlock is a fictional person.
+
+CHAPTER 1: The Barometer in the Kitchen
+
+Clara Whitlock was born in 1868 on Fenmoor Island, a windy strip of land off the eastern coast, where her father kept the harbour and her mother kept everything else. The island had two hundred people, one church, one school, a telegraph office and no trees taller than a man, because the wind did not allow them.
+
+The most important object in the Whitlock kitchen was not the stove or the clock. It was a brass barometer that hung beside the door. A barometer measures the pressure of the air: the weight of the whole sky pressing down on the ground. When the pressure falls, bad weather is usually on its way. When it rises, the weather usually settles.
+
+Every morning, her father tapped its glass with one finger and watched the needle move. If the needle fell quickly, the fishing boats stayed in harbour. If it rose, they went out. Clara learned before she could read that the air had weight, and that its weight could change.
+
+When she was nine, she began to write the barometer readings in a school exercise book, three times a day: at seven in the morning, at noon and at seven in the evening. Beside each reading she noted the wind direction, the shape of the clouds and whether the gulls were flying inland. She drew small pictures of the clouds in the margins: long thin streaks, piled white towers, flat grey sheets. Her brothers teased her. Her mother bought her a second exercise book.
+
+By the age of sixteen, Clara had filled twenty-three books. She noticed patterns that the fishermen half knew but had never written down. A steady fall of more than three millimetres in three hours almost always meant a gale within a day. A sudden rise after a long fall often came just before the worst of the wind. Thin, high streaks of cloud moving from the south-west were often the first sign of a storm still hundreds of miles away.
+
+Girls on Fenmoor were not expected to study science. They were expected to mend nets, keep house and marry fishermen. But the island schoolteacher, Mr. Abel Crane, saw Clara's books and understood what they were. He wrote to a friend at the Royal Meteorological Society in London. The reply arrived six weeks later. It asked, politely, whether "your pupil" might send copies of her observations.
+
+Clara copied all twenty-three books by hand, in her neatest writing, sitting up late by the oil lamp for a month. Then she wrapped them in brown paper and oilcloth against the sea spray, and posted them across the water to London.
+
+CHAPTER 2: An Unofficial Observer
+
+The Society did not offer Clara a position. Women could not be members. Instead, it sent her a better barometer, a thermometer, a rain gauge, and a printed form on which to record her observations. Each month, Clara posted the completed forms to London, where they were added to the national records as the readings of "the Fenmoor station."
+
+No one in London knew that the Fenmoor station was a young woman at a kitchen table.
+
+The new instruments changed her days. The thermometer had to be kept in a white wooden box with slatted sides, out of the sun but open to the air. The rain gauge had to be emptied and measured each morning, even in winter, when the water froze and she had to melt it by the stove before she could read it. She learned to read the scales to a tenth of a millimetre, and to correct the barometer for the temperature of the room.
+
+Her work was careful and regular. She never missed a reading, even when she was ill, even on the morning of her own wedding. In 1891, Clara married a schoolteacher, Thomas Hale, who had taken over the island school from Mr. Crane. He built her a small wooden hut on the hill above their house, with a wind vane on the roof and a shelf for her instruments. She kept her own name for her scientific work, which surprised the island. She also began to send her own notes with the forms: short letters describing how a storm had arrived, how quickly the pressure had fallen, and how the sea had behaved before the wind.
+
+One of the scientists who read these letters, Dr. Harriet Lyle, began to write back. Dr. Lyle was one of very few women working in weather science at the time, and she encouraged Clara to compare her readings with those from mainland stations. Each month, Dr. Lyle sent copies of the mainland records, and Clara laid them out on the floor of her hut beside her own.
+
+Together, by post, they noticed something important. Storms that reached Fenmoor from the south-west often showed a falling barometer on the island several hours before the mainland stations further east. Fenmoor, sitting out in the sea, felt the storms first.
+
+"Your island," wrote Dr. Lyle, "is the front door of the weather. If someone is watching that door, they can warn the house."
+
+Clara pinned the letter to the wall of her hut. She began to think about what a warning would need: a fast-falling barometer, a reliable observer, and a way to send the news faster than the storm could travel. The island already had the third thing. It had a telegraph.
+
+CHAPTER 3: The Warning of 1903
+
+In September 1903, Clara's barometer began to fall in the afternoon. By evening it had dropped more than six millimetres in three hours, the fastest fall in all her records. She tapped the glass, checked the second barometer, and checked her figures twice. The wind was still light. The sky was clear, with only a few thin streaks of cloud high in the south-west. The fishing fleet of the mainland port of Harwick was preparing to sail before dawn.
+
+There was a telegraph office in the village. Clara walked down the hill with her logbook and sent a message to the harbour master at Harwick: "Barometer falling fast at Fenmoor. Severe gale expected within twelve hours. Keep fleet in port."
+
+The harbour master had never heard of Clara Whitlock. But he had heard of the Fenmoor station, whose readings were printed in the official weather reports he read every week. He looked at the clear sky, and at the message, and made his decision. He ordered the fleet to stay in harbour. Some of the fishermen were angry; a calm night meant a good catch.
+
+The storm arrived a little after midnight. It was one of the strongest of the decade. Roofs were torn from houses along the coast, and several ships at sea were lost. The Harwick fleet, all forty-two boats, was safe.
+
+After the storm, the newspapers asked who had sent the warning. When they learned the answer, the story spread quickly: a woman on a small island, without a university degree, had measured the storm before anyone else. Reporters took the ferry to Fenmoor. Clara gave them one interview, showed them her hut, and then went back to her readings.
+
+The story did more than make her briefly famous. The next year, the authorities agreed to a simple system that Clara and Dr. Lyle had proposed in their letters: whenever the Fenmoor barometer fell faster than a set limit, the island telegraph office would send an immediate warning to the mainland ports. Clara was paid a small salary for the first time, as "observer in charge." She used it to buy a second rain gauge and a book of cloud photographs, and she trained two island girls to take readings when she was away.
+
+Clara Whitlock continued her observations until 1931, when her eyesight failed. Her exercise books and logbooks, more than two hundred volumes, are a record of forty years of weather. The idea she helped to prove, that a network of distant stations can warn of storms before they arrive, is now part of every weather forecast in the world.
