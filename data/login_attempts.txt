@@ -1,0 +1,3 @@
+{"attempt_id": "LA-0001", "username": "alice", "method": "FACE", "success": true, "score": 0.913, "timestamp": "2026-11-24 20:14:50"}
+{"attempt_id": "LA-0002", "username": "bella", "method": "FACE", "success": true, "score": 0.917, "timestamp": "2026-11-24 20:15:48"}
+{"attempt_id": "LA-0003", "username": "alice", "method": "FACE", "success": true, "score": 0.913, "timestamp": "2026-11-24 20:18:49"}

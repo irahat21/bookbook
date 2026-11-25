@@ -1,0 +1,24 @@
+{"txn_id": "X-0001", "user_id": "U-0002", "type": "DEPOSIT", "amount": 92.97, "balance_after": 92.97, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 09:00:00"}
+{"txn_id": "X-0002", "user_id": "U-0002", "type": "PURCHASE", "amount": -9.99, "balance_after": 82.98, "book_id": "B-0001", "note": "The Lantern Keeper's Daughter", "timestamp": "2026-10-02 09:37:00"}
+{"txn_id": "X-0003", "user_id": "U-0002", "type": "PURCHASE", "amount": -19.99, "balance_after": 62.99, "book_id": "B-0005", "note": "Tuesdays on Marrow Street", "timestamp": "2026-10-02 10:14:00"}
+{"txn_id": "X-0004", "user_id": "U-0002", "type": "PURCHASE", "amount": -12.99, "balance_after": 50.0, "book_id": "B-0009", "note": "The Vanishing Cartographer", "timestamp": "2026-10-02 10:51:00"}
+{"txn_id": "X-0005", "user_id": "U-0003", "type": "DEPOSIT", "amount": 196.96, "balance_after": 196.96, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 11:51:00"}
+{"txn_id": "X-0006", "user_id": "U-0003", "type": "PURCHASE", "amount": -9.99, "balance_after": 186.97, "book_id": "B-0001", "note": "The Lantern Keeper's Daughter", "timestamp": "2026-10-02 12:28:00"}
+{"txn_id": "X-0007", "user_id": "U-0003", "type": "PURCHASE", "amount": -16.99, "balance_after": 169.98, "book_id": "B-0010", "note": "Ink on the Lighthouse Stairs", "timestamp": "2026-10-02 13:05:00"}
+{"txn_id": "X-0008", "user_id": "U-0003", "type": "PURCHASE", "amount": -14.99, "balance_after": 154.99, "book_id": "B-0019", "note": "A Spell for Rainy Kingdoms", "timestamp": "2026-10-02 13:42:00"}
+{"txn_id": "X-0009", "user_id": "U-0003", "type": "PURCHASE", "amount": -34.99, "balance_after": 120.0, "book_id": "B-0028", "note": "Bridges of the Industrial Age", "timestamp": "2026-10-02 14:19:00"}
+{"txn_id": "X-0010", "user_id": "U-0005", "type": "DEPOSIT", "amount": 20.0, "balance_after": 20.0, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 15:19:00"}
+{"txn_id": "X-0011", "user_id": "U-0006", "type": "DEPOSIT", "amount": 20.0, "balance_after": 20.0, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 16:19:00"}
+{"txn_id": "X-0012", "user_id": "U-0006", "type": "PURCHASE", "amount": -9.99, "balance_after": 10.01, "book_id": "B-0001", "note": "The Lantern Keeper's Daughter", "timestamp": "2026-10-02 16:56:00"}
+{"txn_id": "X-0013", "user_id": "U-0007", "type": "DEPOSIT", "amount": 20.0, "balance_after": 20.0, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 17:56:00"}
+{"txn_id": "X-0014", "user_id": "U-0007", "type": "PURCHASE", "amount": -9.99, "balance_after": 10.01, "book_id": "B-0001", "note": "The Lantern Keeper's Daughter", "timestamp": "2026-10-02 18:33:00"}
+{"txn_id": "X-0015", "user_id": "U-0008", "type": "DEPOSIT", "amount": 20.0, "balance_after": 20.0, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 19:33:00"}
+{"txn_id": "X-0016", "user_id": "U-0008", "type": "PURCHASE", "amount": -9.99, "balance_after": 10.01, "book_id": "B-0001", "note": "The Lantern Keeper's Daughter", "timestamp": "2026-10-02 20:10:00"}
+{"txn_id": "X-0017", "user_id": "U-0009", "type": "DEPOSIT", "amount": 20.0, "balance_after": 20.0, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 21:10:00"}
+{"txn_id": "X-0018", "user_id": "U-0009", "type": "PURCHASE", "amount": -9.99, "balance_after": 10.01, "book_id": "B-0004", "note": "The Quiet Orchard", "timestamp": "2026-10-02 21:47:00"}
+{"txn_id": "X-0019", "user_id": "U-0010", "type": "DEPOSIT", "amount": 20.0, "balance_after": 20.0, "book_id": null, "note": "Add funds", "timestamp": "2026-10-02 22:47:00"}
+{"txn_id": "X-0020", "user_id": "U-0010", "type": "PURCHASE", "amount": -9.99, "balance_after": 10.01, "book_id": "B-0004", "note": "The Quiet Orchard", "timestamp": "2026-10-02 23:24:00"}
+{"txn_id": "X-0021", "user_id": "U-0004", "type": "FINE", "amount": -1.0, "balance_after": -1.0, "book_id": "B-0001", "note": "Insufficient funds", "timestamp": "2026-10-03 00:24:00"}
+{"txn_id": "X-0022", "user_id": "U-0002", "type": "PURCHASE", "amount": -14.99, "balance_after": 35.01, "book_id": "B-0019", "note": "A Spell for Rainy Kingdoms", "timestamp": "2026-11-24 20:15:22"}
+{"txn_id": "X-0023", "user_id": "U-0006", "type": "DEPOSIT", "amount": 100.0, "balance_after": 110.01, "book_id": null, "note": "Add funds", "timestamp": "2026-11-24 20:17:31"}
+{"txn_id": "X-0024", "user_id": "U-0002", "type": "PURCHASE", "amount": -4.99, "balance_after": 30.02, "book_id": "B-0046", "note": "Paper Boats and Thunder", "timestamp": "2026-11-24 22:42:06"}
