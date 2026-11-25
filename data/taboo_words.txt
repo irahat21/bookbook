@@ -1,0 +1,10 @@
+{"word": "crap", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "darn", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "dumb", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "garbage", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "heck", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "idiot", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "lame", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "moron", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "stupid", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}
+{"word": "trash", "added_by": "U-0001", "added_at": "2026-10-01 10:40:00"}

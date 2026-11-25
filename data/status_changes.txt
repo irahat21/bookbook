@@ -1,0 +1,4 @@
+{"change_id": "SC-0001", "user_id": "U-0003", "from_role": "RC", "to_role": "VC", "from_status": "ACTIVE", "to_status": "ACTIVE", "reason": "promotion", "timestamp": "2026-10-02 14:19:00"}
+{"change_id": "SC-0002", "user_id": "U-0004", "from_role": "RC", "to_role": "RC", "from_status": "ACTIVE", "to_status": "SUSPENDED", "reason": "negative balance", "timestamp": "2026-10-03 00:24:00"}
+{"change_id": "SC-0003", "user_id": "U-0002", "from_role": "RC", "to_role": "VC", "from_status": "ACTIVE", "to_status": "ACTIVE", "reason": "promotion", "timestamp": "2026-11-24 20:15:22"}
+{"change_id": "SC-0004", "user_id": "U-0002", "from_role": "VC", "to_role": "RC", "from_status": "ACTIVE", "to_status": "ACTIVE", "reason": "blocked comment", "timestamp": "2026-11-24 20:19:17"}
